@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JonasVindahl
-- 👀 I’m interested in JS, C#, Python
-- 🌱 I’m currently in school 
+- 🌱 I’m currently studying CCT (Cyber- and computer-technology) at AAU (AAlborg university) in Copenhagen (sydhavn)
 
 
 <!---

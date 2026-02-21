@@ -22,5 +22,5 @@ Java · Spring Boot · PostgreSQL · Python · C · JavaScript · Linux · Docke
 ---
 
 ### 📫 Get in touch
-- 💼 [LinkedIn]([https://www.linkedin.com/in/jonas-vindahl-bang-5ab7a929a/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonas-vindahl-bang-5ab7a929a)
 - 🐙 [GitHub](https://github.com/JonasVindahl)
